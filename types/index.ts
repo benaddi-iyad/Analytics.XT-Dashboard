@@ -30,10 +30,11 @@ export interface Threat {
 
 export interface ChartDataPoint {
     name: string;
-    value: number;
+    value?: number;
     mobile?: number;
     desktop?: number;
     network?: number;
+    fill?: string;
     [key: string]: string | number | undefined;
 }
 

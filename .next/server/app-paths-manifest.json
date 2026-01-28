@@ -1,4 +1,11 @@
 {
+  "/_not-found": "app/_not-found.js",
+  "/incidents/page": "app/incidents/page.js",
+  "/logs/page": "app/logs/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/alerts/page": "app/alerts/page.js",
+  "/threats/page": "app/threats/page.js",
   "/page": "app/page.js",
-  "/not-found": "app/not-found.js"
+  "/reports/page": "app/reports/page.js",
+  "/users/page": "app/users/page.js"
 }
