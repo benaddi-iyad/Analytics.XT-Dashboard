@@ -1,0 +1,20 @@
+Purpose:
+Scan the Next.js project, detect all TypeScript, build, runtime, UI, performance, SEO, and accessibility errors, explain them clearly, and automatically fix them.
+
+Features:
+- Detect TypeScript type errors and fix them
+- Fix build and runtime crashes
+- Fix UI bugs and layout issues
+- Improve performance, SEO, and accessibility
+- Provide clear error reports and auto-fix when safe
+
+Workflow:
+1. Scan project.
+2. Detect all errors.
+3. Apply safe fixes.
+4. Deliver a clean, build-ready version.
+
+Success:
+- No build errors.
+- No TypeScript errors.
+- Lighthouse scores > 90.

@@ -1,0 +1,15 @@
+{
+  "status": "commited",
+  "type": "frontend",
+  "scope": "codebase",
+  "localEndpoint": "http://localhost:3000",
+  "executionArgs": {
+    "projectName": "Analytics Dashboard",
+    "projectPath": "c:\\Users\\Benaddi Iyad\\Desktop\\Analytics Dashboard",
+    "testIds": [],
+    "additionalInstruction": "",
+    "envs": {
+      "API_KEY": "sk-user-EbKoQxD0w-CwTfT4DFkiMdN0GQ-7UrRdvvsTM9sptLlGhyHv1D898jybWvLAlXSZiMt1LRc47UjViokSQTb6teRxE46Ofc4aHv8Pvx-PngXuT515PPNZtlK6jksyVN9qN30"
+    }
+  }
+}

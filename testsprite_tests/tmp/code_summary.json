@@ -1,0 +1,28 @@
+{
+    "tech_stack": [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "Zustand",
+        "Framer Motion",
+        "Recharts"
+    ],
+    "features": [
+        {
+            "name": "Sidebar Navigation",
+            "description": "Collapsible sidebar with navigation links, animated transitions, and active state handling.",
+            "files": [
+                "components/Sidebar.tsx",
+                "store/useDashboardStore.ts"
+            ]
+        },
+        {
+            "name": "Global Layout",
+            "description": "Root layout defining the main structure including Sidebar and Navbar placement.",
+            "files": [
+                "app/layout.tsx"
+            ]
+        }
+    ]
+}
